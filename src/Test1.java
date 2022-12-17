@@ -4,5 +4,6 @@ public class Test1 {
         //asdasdas
         //asdasdasd
         //ddfssdfsd
+        /asdasdasd
     }
 }
